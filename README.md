@@ -25,10 +25,7 @@ $ cd Mail-Bom
 $ python bd.py
 ```
 
-<hr color=red width=100%>
-
-
-<hr color=red width=100%>
+<hr width=100%>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
